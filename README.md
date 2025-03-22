@@ -33,9 +33,9 @@
 
 ## 📊  Github statistics:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackalinux&layout=compact&theme=gruvbox&custom_title=Only%20C%2B%2B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackshal&layout=compact&theme=gruvbox&custom_title=Only%20C%2B%2B)
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zackalinux&theme=gruvbox&custom_title=Shame)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zackshal&theme=gruvbox&custom_title=Shame)
 
 ---
 
